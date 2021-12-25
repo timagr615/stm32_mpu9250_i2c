@@ -1,0 +1,8 @@
+micros.h:13:22:DWT_Init	4	static
+main.c:71:5:main	1400	static
+main.c:249:6:SystemClock_Config	88	static
+main.c:294:13:MX_I2C1_Init	8	static
+main.c:328:13:MX_USART1_UART_Init	8	static
+main.c:361:13:MX_GPIO_Init	48	static
+main.c:386:6:setMPUSettings	16	static
+main.c:409:6:Error_Handler	4	static,ignoring_inline_asm
